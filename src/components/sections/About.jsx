@@ -133,7 +133,7 @@ export const About = () => {
 
           <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all">
             <p className="text-gray-300 mb-6">
-            A third-year Bachelor of Technology student in Electronics and Communication Engineering at the National Institute of Technology Jamshedpur. I am an aspiring developer, continuously learning, seeking opportunities, and creating innovative solutions to real-world problems.
+            A final-year Bachelor of Technology student in Electronics and Communication Engineering at the National Institute of Technology Jamshedpur. I am an aspiring developer, continuously learning, seeking opportunities, and creating innovative solutions to real-world problems.
             </p>
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
